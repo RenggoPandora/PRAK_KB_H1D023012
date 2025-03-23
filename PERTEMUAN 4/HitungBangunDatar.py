@@ -55,3 +55,18 @@ while True:
         break
     else:
         print("Pilihan tidak valid, coba lagi!")
+
+
+# Menggunakan dua library:
+# math → untuk nilai π (pi) dalam perhitungan lingkaran.
+# time → untuk menambahkan delay saat keluar dari program.
+
+
+# Percabangan (if-elif-else) digunakan untuk memilih bentuk geometri yang ingin dihitung.
+# Perulangan (while True) membuat menu berjalan terus sampai pengguna memilih keluar.
+
+# Variabel sederhana digunakan untuk menyimpan input panjang, lebar, jari-jari, dan lainnya.
+
+# Fungsi:
+# Ada 4 fungsi (lingkaran(), persegi(), persegi_panjang(), segitiga()) 
+# untuk menghitung luas dan keliling (kecuali segitiga) masing-masing bentuk.
